@@ -111,6 +111,5 @@ jupyter
 ---
 
 ## 👤 Author
-
-Made as a Data Science learning project.
+- Made as a Data Science learning project.
 =======
