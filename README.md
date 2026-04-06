@@ -95,7 +95,7 @@ ipl-data-analysis/
    jupyter notebook notebooks/ipl_analysis.ipynb
    ```
 
-Or simply open `ipl_analysis.html` in any browser to view the full analysis without installing anything.
+Or simply open [ipl_analysis.html](https://tajinder2449.github.io/ipl-data-analysis/ipl_analysis.html) in any browser to view the full analysis without installing anything.
 
 ---
 
@@ -109,9 +109,6 @@ jupyter
 
 ---
 
-## 🌐 Live Project Demo
-
-👉 [View Website](https://tajinder2449.github.io/ipl-data-analysis/ipl_analysis.html)
 
 ## 👤 Author
 - Made as a Data Science learning project.
