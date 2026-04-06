@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏏 IPL Data Analysis (2008–2017)
 
 Exploratory Data Analysis on IPL match data using Python, NumPy, and Pandas.
@@ -112,4 +111,5 @@ jupyter
 
 ## 👤 Author
 - Made as a Data Science learning project.
+
 =======
