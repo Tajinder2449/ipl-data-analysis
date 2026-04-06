@@ -114,6 +114,3 @@ jupyter
 
 Made as a Data Science learning project.
 =======
-# ipl-data-analysis
-Exploratory Data Analysis on IPL matches data using Python, NumPy and Pandas
->>>>>>> bc65ab2d8d88168bad0272d7e3bbeaa33ea6e4d9
