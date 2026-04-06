@@ -109,6 +109,10 @@ jupyter
 
 ---
 
+## 🌐 Live Project Demo
+
+👉 [View Website](https://tajinder2449.github.io/ipl-data-analysis/ipl_analysis.html)
+
 ## 👤 Author
 - Made as a Data Science learning project.
 
